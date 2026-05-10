@@ -1,128 +1,252 @@
-# Contributor Covenant Code of Conduct
+<div align="center">
 
-## Our Pledge
+# 🤝 Código de Conducta
 
-We as members, contributors, and leaders pledge to make participation in our
-community a harassment-free experience for everyone, regardless of age, body
-size, visible or invisible disability, ethnicity, sex characteristics, gender
-identity and expression, level of experience, education, socio-economic status,
-nationality, personal appearance, race, religion, or sexual identity
-and orientation.
+### Construyendo una comunidad abierta, profesional y respetuosa 🚀
 
-We pledge to act and interact in ways that contribute to an open, welcoming,
-diverse, inclusive, and healthy community.
+<p align="center">
+  Este proyecto está comprometido con crear un entorno seguro, inclusivo y libre de acoso para todos los colaboradores, desarrolladores y miembros de la comunidad.
+</p>
 
-## Our Standards
+<p align="center">
+  <img src="https://img.shields.io/badge/Community-Inclusive-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Open%20Source-Friendly-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Respect-First-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Contributor-Covenant-purple?style=for-the-badge">
+</p>
 
-Examples of behavior that contributes to a positive environment for our
-community include:
+<p align="center">
+  <a href="#-nuestro-compromiso">Compromiso</a> •
+  <a href="#-estándares">Estándares</a> •
+  <a href="#-aplicación">Aplicación</a> •
+  <a href="#-sanciones">Sanciones</a> •
+  <a href="#-atribución">Atribución</a>
+</p>
 
-* Demonstrating empathy and kindness toward other people
-* Being respectful of differing opinions, viewpoints, and experiences
-* Giving and gracefully accepting constructive feedback
-* Accepting responsibility and apologizing to those affected by our mistakes,
-  and learning from the experience
-* Focusing on what is best not just for us as individuals, but for the
-  overall community
+</div>
 
-Examples of unacceptable behavior include:
+---
 
-* The use of sexualized language or imagery, and sexual attention or
-  advances of any kind
-* Trolling, insulting or derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or email
-  address, without their explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
-  professional setting
+# 🌍 Nuestro Compromiso
 
-## Enforcement Responsibilities
+Como miembros, colaboradores y líderes de esta comunidad, nos comprometemos a mantener un entorno:
 
-Community leaders are responsible for clarifying and enforcing our standards of
-acceptable behavior and will take appropriate and fair corrective action in
-response to any behavior that they deem inappropriate, threatening, offensive,
-or harmful.
+- 🤝 Respetuoso
+- 🌎 Inclusivo
+- 🚀 Profesional
+- ❤️ Amigable
+- 🔥 Libre de acoso
+- ⚡ Seguro para todos
 
-Community leaders have the right and responsibility to remove, edit, or reject
-comments, commits, code, wiki edits, issues, and other contributions that are
-not aligned to this Code of Conduct, and will communicate reasons for moderation
-decisions when appropriate.
+Independientemente de:
 
-## Scope
+- Edad
+- Nacionalidad
+- Género
+- Experiencia
+- Apariencia
+- Religión
+- Identidad
+- Nivel educativo
+- Situación económica
+- Orientación sexual
+- Discapacidad visible o invisible
 
-This Code of Conduct applies within all community spaces, and also applies when
-an individual is officially representing the community in public spaces.
-Examples of representing our community include using an official e-mail address,
-posting via an official social media account, or acting as an appointed
-representative at an online or offline event.
+Nuestro objetivo es fomentar una comunidad saludable y positiva donde todos puedan participar cómodamente.
 
-## Enforcement
+---
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at
-help@xeroxdev.de.
-All complaints will be reviewed and investigated promptly and fairly.
+# ✨ Estándares de la Comunidad
 
-All community leaders are obligated to respect the privacy and security of the
-reporter of any incident.
+## ✅ Comportamientos Esperados
 
-## Enforcement Guidelines
+Se consideran acciones positivas:
 
-Community leaders will follow these Community Impact Guidelines in determining
-the consequences for any action they deem in violation of this Code of Conduct:
+- 🤝 Mostrar empatía y respeto
+- 🎯 Aceptar críticas constructivas
+- 📚 Compartir conocimiento
+- 🚀 Ayudar a otros colaboradores
+- 💬 Mantener conversaciones profesionales
+- ❤️ Promover un ambiente amigable
+- ⚡ Aprender de los errores
 
-### 1. Correction
+---
 
-**Community Impact**: Use of inappropriate language or other behavior deemed
-unprofessional or unwelcome in the community.
+## ❌ Comportamientos Inaceptables
 
-**Consequence**: A private, written warning from community leaders, providing
-clarity around the nature of the violation and an explanation of why the
-behavior was inappropriate. A public apology may be requested.
+No se permitirá:
 
-### 2. Warning
+- 🚫 Acoso público o privado
+- 🚫 Lenguaje ofensivo o discriminatorio
+- 🚫 Ataques personales o políticos
+- 🚫 Trolling o provocaciones
+- 🚫 Publicar información privada sin permiso
+- 🚫 Conductas agresivas o intimidatorias
+- 🚫 Comentarios degradantes o irrespetuosos
 
-**Community Impact**: A violation through a single incident or series
-of actions.
+---
 
-**Consequence**: A warning with consequences for continued behavior. No
-interaction with the people involved, including unsolicited interaction with
-those enforcing the Code of Conduct, for a specified period of time. This
-includes avoiding interactions in community spaces as well as external channels
-like social media. Violating these terms may lead to a temporary or
-permanent ban.
+# 🛡️ Aplicación y Moderación
 
-### 3. Temporary Ban
+## ⚖️ Responsabilidades de los Moderadores
 
-**Community Impact**: A serious violation of community standards, including
-sustained inappropriate behavior.
+Los líderes y moderadores del proyecto tienen la responsabilidad de:
 
-**Consequence**: A temporary ban from any sort of interaction or public
-communication with the community for a specified period of time. No public or
-private interaction with the people involved, including unsolicited interaction
-with those enforcing the Code of Conduct, is allowed during this period.
-Violating these terms may lead to a permanent ban.
+- 🔍 Revisar reportes
+- ⚡ Actuar de forma justa
+- 🤝 Mantener el orden
+- 🚀 Garantizar un ambiente sano
+- 🛡️ Proteger a la comunidad
 
-### 4. Permanent Ban
+También podrán:
 
-**Community Impact**: Demonstrating a pattern of violation of community
-standards, including sustained inappropriate behavior,  harassment of an
-individual, or aggression toward or disparagement of classes of individuals.
+- Eliminar contenido inapropiado
+- Editar comentarios ofensivos
+- Rechazar contribuciones dañinas
+- Suspender usuarios problemáticos
 
-**Consequence**: A permanent ban from any sort of public interaction within
-the community.
+---
 
-## Attribution
+# 🌐 Alcance
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage],
-version 2.0, available at
-https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
+Este Código de Conducta aplica en:
 
-Community Impact Guidelines were inspired by [Mozilla's code of conduct
-enforcement ladder](https://github.com/mozilla/diversity).
+- GitHub
+- Pull Requests
+- Issues
+- Discussions
+- Chats comunitarios
+- Redes sociales oficiales
+- Eventos online y presenciales
 
-[homepage]: https://www.contributor-covenant.org
+También aplica a cualquier persona que represente oficialmente al proyecto.
 
-For answers to common questions about this code of conduct, see the FAQ at
-https://www.contributor-covenant.org/faq. Translations are available at
-https://www.contributor-covenant.org/translations.
+---
+
+# 📢 Reportar Problemas
+
+## 📩 Contacto de Moderación
+
+Si encuentras comportamientos abusivos, ofensivos o inapropiados, puedes reportarlos a:
+
+```txt
+help@xeroxdev.de
+```
+
+Todos los reportes serán:
+
+- 🔒 Confidenciales
+- ⚡ Revisados rápidamente
+- 🤝 Investigados de forma justa
+- 🛡️ Tratados con privacidad y seguridad
+
+---
+
+# ⚠️ Guía de Sanciones
+
+## 🟡 1. Corrección
+
+### 📌 Ejemplo
+
+- Lenguaje inapropiado
+- Conducta poco profesional
+
+### ⚡ Consecuencia
+
+- Advertencia privada
+- Explicación de la infracción
+- Solicitud de corrección
+
+---
+
+## 🟠 2. Advertencia Formal
+
+### 📌 Ejemplo
+
+- Conducta reiterada
+- Comentarios ofensivos
+
+### ⚡ Consecuencia
+
+- Restricción temporal
+- Prohibición de interacción
+- Supervisión comunitaria
+
+---
+
+## 🔴 3. Suspensión Temporal
+
+### 📌 Ejemplo
+
+- Acoso reiterado
+- Violaciones graves
+
+### ⚡ Consecuencia
+
+- Suspensión temporal
+- Restricción total de participación
+- Bloqueo de canales comunitarios
+
+---
+
+## ⛔ 4. Expulsión Permanente
+
+### 📌 Ejemplo
+
+- Acoso severo
+- Amenazas
+- Conductas agresivas constantes
+
+### ⚡ Consecuencia
+
+- Ban permanente
+- Eliminación de acceso comunitario
+- Restricción total de interacción
+
+---
+
+# 🧠 Filosofía de la Comunidad
+
+## ❤️ Nuestra Meta
+
+Queremos construir una comunidad donde:
+
+- Todos puedan aprender
+- Exista respeto mutuo
+- Se fomente la colaboración
+- El Open Source sea accesible
+- Los desarrolladores crezcan juntos
+
+---
+
+# 📚 Atribución
+
+Este Código de Conducta está basado en:
+
+## 🤝 Contributor Covenant v2.0
+
+https://www.contributor-covenant.org/version/2/0/code_of_conduct.html
+
+---
+
+## 🌐 Recursos adicionales
+
+### FAQ
+
+https://www.contributor-covenant.org/faq
+
+### Traducciones
+
+https://www.contributor-covenant.org/translations
+
+### Mozilla Enforcement Ladder
+
+https://github.com/mozilla/diversity
+
+---
+
+<div align="center">
+
+### 🤝 Juntos construimos una comunidad Open Source más saludable y profesional.
+
+</div>
