@@ -2,7 +2,7 @@
 
 <img width="900" src="assets/thumbnail/ytmdc-thumbnail.png" />
 
-# 🎵 YTMD Stream Deck
+# 🎵 PluginYoutubeDescktop YTMD Stream Deck
 
 ### Plugin avanzado para controlar YouTube Music Desktop desde Stream Deck 🚀
 
@@ -174,7 +174,7 @@ Está enfocado en usuarios que desean una experiencia multimedia profesional y a
 # 📂 Estructura del Proyecto
 
 ```bash
-YTMD-StreamDeck/
+PluginYoutubeDescktop/
 │
 ├── assets/                  # Recursos gráficos
 ├── actions/                 # Acciones Stream Deck
@@ -195,7 +195,7 @@ YTMD-StreamDeck/
 Descarga e instala:
 
 ```bash
-https://github.com/ytmdesktop/ytmdesktop
+https://github.com/isairey/PluginYoutubeDescktop
 ```
 
 ---
@@ -360,6 +360,6 @@ Proyecto Open Source enfocado en automatización multimedia y productividad.
 
 <div align="center">
 
-### 🎵 YTMD Stream Deck — Control total de YouTube Music desde Stream Deck.
+### 🎵 PluginYoutubeDescktop YTMD Stream Deck — Control total de YouTube Music desde Stream Deck.
 
 </div>
