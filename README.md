@@ -334,7 +334,7 @@ El proyecto utiliza:
 
 <div align="center">
 
-## XeroxDev
+## Isai Reyes
 
 Developer enfocado en automatización, plugins multimedia y herramientas avanzadas para Stream Deck.
 
