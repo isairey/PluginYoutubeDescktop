@@ -1,0 +1,10 @@
+.*/
+!.github/
+!.vscode
+node_modules/
+dist/
+coverage/
+build/
+bundle.js
+bundle-pi.js
+DistributionTool.exe

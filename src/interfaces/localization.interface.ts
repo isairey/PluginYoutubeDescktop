@@ -1,0 +1,47 @@
+export interface LocalizationInterface {
+    PI: {
+        HOST: string;
+        PORT: string;
+        VOLUME_STEPS: string;
+        SAVE: string;
+        AUTOMATIC_SAVE: string;
+        AUTH_BUTTON: string;
+        AUTH_STATUS: string;
+        AUTH_STATUS_CONNECTING: string;
+        AUTH_STATUS_AUTHORIZING: string;
+        AUTH_STATUS_NOT_CONNECTED: string;
+        AUTH_STATUS_CONNECTED: string;
+        AUTH_STATUS_ERROR: string;
+        AUTH_CODE_STATUS: string;
+        AUTH_CODE_COMPARE: string;
+        DISPLAY_FORMAT: string;
+        SUPPORT_FEEDBACK_TITLE: string;
+        SUPPORT_FEEDBACK_TEXT: string;
+        VAR_USAGE: string;
+        TOGGLE: string;
+        PAUSE: string;
+        PLAY: string;
+        ACTION: string;
+        PLAYLIST: string;
+        PLAYLIST_URL: string;
+        PLAYLIST_URL_STATUS: string;
+        PLAYLIST_URL_STATUS_VALID: string;
+        PLAYLIST_URL_STATUS_INVALID: string;
+        PLAYLIST_URL_STATUS_MISSING_LIST: string;
+        PLAYLIST_SOURCE: string;
+        PLAYLIST_SOURCE_HELP: string;
+        PLAYLIST_REFRESH: string;
+        PLAYLIST_ERROR_TITLE: string;
+        PLAYLIST_ERROR_RATE_LIMIT: string;
+        PLAYLIST_SELECT: string;
+        PLAYLIST_AUTH_HINT: string;
+        GLOBAL_SETTINGS_TITLE: string;
+        CONNECTION_STATUS: string;
+        CONNECTION_STATUS_CONNECTED: string;
+        CONNECTION_STATUS_DISCONNECTED: string;
+        CONNECTION_STATUS_AUTH_REQUIRED: string;
+        CONNECTION_STATUS_CHECKING: string;
+        CONNECTION_STATUS_RATE_LIMIT: string;
+        CONNECTION_STATUS_NOT_CHECKED: string;
+    };
+}
