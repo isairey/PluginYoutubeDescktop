@@ -1,83 +1,365 @@
-![Thumbnail](assets/thumbnail/ytmdc-thumbnail.png)
+<div align="center">
 
-# 1. Table of content
-- [1. Table of content](#1-table-of-content)
-- [2. Badges](#2-badges)
-- [3. What is this Plugin?](#3-what-is-this-plugin)
-- [4. Support / Feedback](#4-support--feedback)
-- [5. Actions](#5-actions)
-- [6. How to use it?](#6-how-to-use-it)
-- [7. How to contribute?](#7-how-to-contribute)
+<img width="900" src="assets/thumbnail/ytmdc-thumbnail.png" />
 
-# 2. Badges
-[![Forks](https://img.shields.io/github/forks/XeroxDev/YTMD-StreamDeck?color=blue&style=for-the-badge)](https://github.com/XeroxDev/YTMD-StreamDeck/network/members)
-[![Stars](https://img.shields.io/github/stars/XeroxDev/YTMD-StreamDeck?color=yellow&style=for-the-badge)](https://github.com/XeroxDev/YTMD-StreamDeck/stargazers)
-[![Watchers](https://img.shields.io/github/watchers/XeroxDev/YTMD-StreamDeck?color=lightgray&style=for-the-badge)](https://github.com/XeroxDev/YTMD-StreamDeck/watchers)
-[![Contributors](https://img.shields.io/github/contributors/XeroxDev/YTMD-StreamDeck?color=green&style=for-the-badge)](https://github.com/XeroxDev/YTMD-StreamDeck/graphs/contributors)
+# 🎵 YTMD Stream Deck
 
-[![Issues](https://img.shields.io/github/issues/XeroxDev/YTMD-StreamDeck?color=yellow&style=for-the-badge)](https://github.com/XeroxDev/YTMD-StreamDeck/issues)
-[![Issues closed](https://img.shields.io/github/issues-closed/XeroxDev/YTMD-StreamDeck?color=yellow&style=for-the-badge)](https://github.com/XeroxDev/YTMD-StreamDeck/issues?q=is%3Aissue+is%3Aclosed)
+### Plugin avanzado para controlar YouTube Music Desktop desde Stream Deck 🚀
 
-[![Issues-pr](https://img.shields.io/github/issues-pr/XeroxDev/YTMD-StreamDeck?color=yellow&style=for-the-badge)](https://github.com/XeroxDev/YTMD-StreamDeck/pulls)
-[![Issues-pr closed](https://img.shields.io/github/issues-pr-closed/XeroxDev/YTMD-StreamDeck?color=yellow&style=for-the-badge)](https://github.com/XeroxDev/YTMD-StreamDeck/pulls?q=is%3Apr+is%3Aclosed)
-[![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](https://github.com/XeroxDev/YTMD-StreamDeck/compare)
+<p align="center">
+  <b>YTMD Stream Deck</b> es un plugin diseñado para integrar Stream Deck con YouTube Music Desktop App, permitiendo controlar reproducción, volumen, información de canciones y funciones multimedia directamente desde el hardware Elgato Stream Deck.
+</p>
 
-[![Release](https://img.shields.io/github/release/XeroxDev/YTMD-StreamDeck?color=black&style=for-the-badge)](https://github.com/XeroxDev/YTMD-StreamDeck/releases)
+<p align="center">
+  <img src="https://img.shields.io/badge/Stream%20Deck-Plugin-9146FF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/YouTube%20Music-Desktop%20Control-red?style=for-the-badge&logo=youtube">
+  <img src="https://img.shields.io/badge/Open%20Source-TypeScript-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Companion%20Server-Integration-blue?style=for-the-badge">
+</p>
 
-[![Awesome Badges](https://img.shields.io/badge/badges-awesome-green?style=for-the-badge)](https://shields.io)
+<p align="center">
+  <a href="#-preview">Preview</a> •
+  <a href="#-características">Características</a> •
+  <a href="#-acciones-disponibles">Acciones</a> •
+  <a href="#-tecnologías-utilizadas">Tecnologías</a> •
+  <a href="#-instalación">Instalación</a>
+</p>
 
-# 3. What is this Plugin?
-This Stream Deck Plugin allows you to control the [YouTube Music Desktop App](https://github.com/ytmdesktop/ytmdesktop)
+</div>
 
-> [!NOTE]
-> we only support version 2.x.x and above, if you are using an older version, please update to the latest version.
+---
 
-# 4. Support / Feedback
-You found a bug? You have a feature request? I would love to hear about it [here](https://github.com/XeroxDev/YTMD-StreamDeck/issues/new/choose) or click on the "Issues" tab here on the GitHub repositorie!
+# 🌌 Acerca de YTMD Stream Deck
 
-You can also join my discord [here](https://x.xeroxdev.de/s/discord)
+**YTMD Stream Deck** permite controlar la aplicación **YouTube Music Desktop App** directamente desde dispositivos Stream Deck mediante integración con el Companion Server.
 
-# 5. Actions
+El plugin ofrece:
 
-- Play / Pause Track
-- Next Track
-- Previous Track
-- Like Track
-- Dislike Track
-- Volume Mute
-- Volume Down
-- Volume Up
-- Track Info
-  - Shows a scrolling text for album, title and author
-  - Shows the thumbnail of the track
-- Shuffle
-- Repeat
-  - NONE
-  - ALL
-  - ONE
+- 🎵 Control multimedia completo
+- ▶️ Reproducción y pausa
+- ⏭️ Navegación entre canciones
+- 🔊 Gestión de volumen
+- ❤️ Like y dislike de canciones
+- 📊 Información dinámica del track
+- 🔀 Shuffle y Repeat
+- 🎧 Visualización de miniaturas
 
-# 6. How to use it?
-> [!NOTE]
-> This is just a simplified version, please visit the [official documentation](https://help.xeroxdev.de/en/stream-deck/ytmd/home#h-5-how-to-use-it) for a more detailed guide.
+Está enfocado en usuarios que desean una experiencia multimedia profesional y automatizada utilizando Stream Deck.
 
-1. Install the [YouTube Music Desktop App](https://github.com/ytmdesktop/ytmdesktop).
-2. Install the Plugin from [Releases](https://github.com/XeroxDev/YTMD-StreamDeck/releases) or from the official Stream Deck Store.
-3. Add Play/Pause action
-4. Insert, if not already correct, the settings to YTMDesktop (eg. Host and Port)
-5. Make sure the YTMDesktop App and the Companion Server is running
-   - To start the companion server, click at the top right of YTMDesktop on the settings gear
-   - Go on the left side on the "Integrations" tab
-   - Enable the "Companion Server"
-6. Turn on "enable companion authorization" under the Companion Server
-7. Press the Authorize button in the Play/Pause action settings
-8. Compare the authorization code displaying by the plugin with the one displaying in the YTMDesktop App
-9. If they match, confirm the authorization in the YTMDesktop App
-10. You are ready to go! (Steps 6-9 are only needed once/when the plugin isn't authorized)
+---
 
-# 7. How to contribute?
+# 📸 Preview
 
-Just fork the repository and create PR's.
+<div align="center">
 
-> [!NOTE]
-> We're using [release-please](https://github.com/googleapis/release-please) to optimal release the plugin.
-> release-please is following the [conventionalcommits](https://www.conventionalcommits.org) specification.
+<img src="assets/thumbnail/ytmdc-thumbnail.png" width="1000"/>
+
+</div>
+
+---
+
+# ✨ Características
+
+# 🎵 Control Multimedia
+
+- ▶️ Play / Pause
+- ⏭️ Next Track
+- ⏮️ Previous Track
+- 🔀 Shuffle
+- 🔁 Repeat modes
+- 🔊 Control de volumen
+- 🔇 Mute instantáneo
+
+---
+
+## ❤️ Gestión de Canciones
+
+- 👍 Like Track
+- 👎 Dislike Track
+- 🎧 Información dinámica
+- 🖼️ Thumbnail de canciones
+- 📜 Texto desplazable automático
+
+---
+
+## 📊 Información en Tiempo Real
+
+- 🎵 Nombre de canción
+- 👤 Artista
+- 💿 Álbum
+- 🖼️ Carátula del track
+- ⚡ Actualización dinámica
+
+---
+
+## ⚙️ Integración Companion Server
+
+- 🌐 Comunicación en tiempo real
+- 🔐 Autorización segura
+- ⚡ Conexión directa con YTMDesktop
+- 🎧 Sincronización multimedia
+
+---
+
+# 🎛️ Acciones Disponibles
+
+## 🎶 Playback Controls
+
+- ▶️ Play / Pause
+- ⏭️ Next
+- ⏮️ Previous
+- 🔀 Shuffle
+- 🔁 Repeat ALL / ONE / NONE
+
+---
+
+## 🔊 Audio Controls
+
+- 🔇 Volume Mute
+- 🔉 Volume Down
+- 🔊 Volume Up
+
+---
+
+## 📊 Track Information
+
+- 🖼️ Miniatura de canción
+- 🎵 Información de reproducción
+- 📜 Texto dinámico desplazable
+- ⚡ Estado multimedia en tiempo real
+
+---
+
+# 🌐 Compatibilidad
+
+## 📱 Requisitos
+
+- YouTube Music Desktop App v2.x.x o superior
+- Stream Deck
+- Companion Server habilitado
+- Sistema operativo compatible con Stream Deck
+
+---
+
+# 🛠️ Tecnologías Utilizadas
+
+## ⚡ Desarrollo Plugin
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,npm" />
+</p>
+
+- TypeScript
+- JavaScript
+- Node.js
+- NPM
+
+---
+
+## 🔧 Herramientas y Servicios
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
+
+### Tecnologías principales
+
+- Stream Deck SDK
+- Companion Server
+- WebSocket Communication
+- YouTube Music Desktop API
+
+---
+
+# 📂 Estructura del Proyecto
+
+```bash
+YTMD-StreamDeck/
+│
+├── assets/                  # Recursos gráficos
+├── actions/                 # Acciones Stream Deck
+├── ui/                      # Interfaces y settings
+├── integrations/            # Companion Server
+├── docs/                    # Documentación
+├── package.json
+├── tsconfig.json
+└── README.md
+```
+
+---
+
+# ⚡ Instalación
+
+## 1️⃣ Instalar YouTube Music Desktop
+
+Descarga e instala:
+
+```bash
+https://github.com/ytmdesktop/ytmdesktop
+```
+
+---
+
+## 2️⃣ Instalar el Plugin
+
+- 📦 Desde GitHub Releases
+- 🛒 Desde Stream Deck Store
+
+---
+
+## 3️⃣ Configurar Companion Server
+
+### Dentro de YTMDesktop
+
+1. Abrir configuración ⚙️
+2. Entrar a "Integrations"
+3. Activar "Companion Server"
+4. Activar autorización
+5. Guardar configuración
+
+---
+
+## 4️⃣ Autorizar Plugin
+
+- 🔐 Presiona "Authorize"
+- 📲 Verifica el código mostrado
+- ✅ Confirmar autorización
+- 🚀 Plugin listo para usar
+
+---
+
+# 🔥 Funcionalidades Técnicas
+
+## ⚡ Comunicación en Tiempo Real
+
+- WebSockets
+- Companion API
+- Actualización instantánea
+- Eventos multimedia dinámicos
+
+---
+
+## 🎧 Multimedia Integration
+
+- Streaming control
+- Track metadata
+- Dynamic thumbnails
+- Media synchronization
+
+---
+
+## 🔒 Seguridad
+
+- Companion authorization
+- Secure pairing
+- Validación de códigos
+- Comunicación protegida
+
+---
+
+# 🧠 Objetivos del Proyecto
+
+## 🎯 Aprender y practicar
+
+- Stream Deck SDK
+- Integraciones multimedia
+- Companion APIs
+- Comunicación WebSocket
+- Desarrollo TypeScript
+- Automatización multimedia
+- Plugins desktop
+- Sistemas de control multimedia
+
+---
+
+# 📊 Roadmap
+
+## 🚧 Próximamente
+
+- 🌙 Dark UI avanzada
+- 🎵 Lyrics integration
+- ❤️ Favorite playlists
+- ☁️ Cloud synchronization
+- 📱 Companion mobile app
+- 🎧 Audio visualizer
+- 🔥 Custom themes
+- ⚡ Optimización de rendimiento
+
+---
+
+# 🤝 Contribuciones
+
+Las contribuciones son bienvenidas ❤️
+
+## Cómo contribuir
+
+1. Haz Fork del proyecto
+2. Crea una rama
+
+```bash
+git checkout -b feature/nueva-funcion
+```
+
+3. Realiza cambios
+4. Haz commit
+
+```bash
+git commit -m "✨ Nueva funcionalidad"
+```
+
+5. Haz push
+
+```bash
+git push origin feature/nueva-funcion
+```
+
+6. Abre un Pull Request 🚀
+
+---
+
+# ⚙️ Release System
+
+## 🔥 Conventional Commits
+
+El proyecto utiliza:
+
+- release-please
+- Conventional Commits
+- Automatización de releases
+- Versionado semántico
+
+---
+
+# 👨‍💻 Autor
+
+<div align="center">
+
+## XeroxDev
+
+Developer enfocado en automatización, plugins multimedia y herramientas avanzadas para Stream Deck.
+
+</div>
+
+---
+
+# 🌟 Apoya el Proyecto
+
+Si te gusta YTMD Stream Deck:
+
+⭐ Dale una estrella al repositorio  
+🍴 Haz Fork del proyecto  
+📢 Compártelo con otros desarrolladores
+
+---
+
+# 📜 Licencia
+
+Proyecto Open Source enfocado en automatización multimedia y productividad.
+
+---
+
+<div align="center">
+
+### 🎵 YTMD Stream Deck — Control total de YouTube Music desde Stream Deck.
+
+</div>
