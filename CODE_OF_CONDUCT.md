@@ -130,7 +130,7 @@ También aplica a cualquier persona que represente oficialmente al proyecto.
 Si encuentras comportamientos abusivos, ofensivos o inapropiados, puedes reportarlos a:
 
 ```txt
-help@xeroxdev.de
+Developer.SR.IRP@gmail.com
 ```
 
 Todos los reportes serán:
