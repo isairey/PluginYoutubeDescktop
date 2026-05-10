@@ -11,7 +11,7 @@ Este proyecto Open Source está abierto a mejoras, correcciones y nuevas funcion
 ## 1️⃣ Haz Fork del repositorio
 
 ```bash
-git clone https://github.com/usuario/proyecto.git
+git clone https://github.com/isairey/PluginYoutubeDescktop.git
 ```
 
 ---
